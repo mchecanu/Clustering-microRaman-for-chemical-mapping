@@ -10,3 +10,5 @@ Structure:
   5. PCA Decomposition
   6. K-means Visualization of the PCA decomposition
   7. Creation of an animated GIF for presentations.
+
+Experimental Data Files are abailable upon request.
